@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/login005/static/css/main.03761bbb.chunk.css",
+    "main.js": "/login005/static/js/main.41410fe9.chunk.js",
+    "main.js.map": "/login005/static/js/main.41410fe9.chunk.js.map",
+    "runtime-main.js": "/login005/static/js/runtime-main.c575687a.js",
+    "runtime-main.js.map": "/login005/static/js/runtime-main.c575687a.js.map",
+    "static/js/2.944f5c53.chunk.js": "/login005/static/js/2.944f5c53.chunk.js",
+    "static/js/2.944f5c53.chunk.js.map": "/login005/static/js/2.944f5c53.chunk.js.map",
+    "index.html": "/login005/index.html",
+    "precache-manifest.325a3dfb585de60ed58b15541006c5ea.js": "/login005/precache-manifest.325a3dfb585de60ed58b15541006c5ea.js",
+    "service-worker.js": "/login005/service-worker.js",
+    "static/css/main.03761bbb.chunk.css.map": "/login005/static/css/main.03761bbb.chunk.css.map",
+    "static/js/2.944f5c53.chunk.js.LICENSE.txt": "/login005/static/js/2.944f5c53.chunk.js.LICENSE.txt",
+    "static/media/hamburger001.png": "/login005/static/media/hamburger001.f098eaea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c575687a.js",
+    "static/js/2.944f5c53.chunk.js",
+    "static/css/main.03761bbb.chunk.css",
+    "static/js/main.41410fe9.chunk.js"
+  ]
+}
